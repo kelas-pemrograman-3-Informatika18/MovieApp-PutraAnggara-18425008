@@ -16,7 +16,7 @@
     </div>
   </div>
   <q-card flat>
-    <q-card-section class="row =">
+    <q-card-section class="row">
     <q-form
       @submit="onSubmit()"
       class="q-col-gutter-md q-col-lg-6 col-md-6 col-xs-12"

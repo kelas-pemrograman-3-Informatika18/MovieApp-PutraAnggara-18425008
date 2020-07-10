@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "sebuah aplikasi penjualan DVD",
   "productName": "Quasar App",
-  "author": "muhammad nopriansyah",
+  "author": "putra anggara",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
